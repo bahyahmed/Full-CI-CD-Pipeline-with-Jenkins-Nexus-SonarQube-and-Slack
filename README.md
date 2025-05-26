@@ -20,6 +20,10 @@ This project demonstrates the implementation of a complete, professional CI/CD p
 
 ---
 
+## Architecture Diagram
+
+![Architecture Diagram](diagrams/architecture.png)
+
 ## Project Overview
 
 This project automates the lifecycle of a Java web application using a declarative Jenkins pipeline. The system performs:
