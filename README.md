@@ -22,7 +22,7 @@ This project demonstrates the implementation of a complete, professional CI/CD p
 
 ## Architecture Diagram
 
-![Architecture Diagram](diagrams/architecture.png)
+![Architecture Diagram](assets/architecture.png)
 
 ## Project Overview
 
